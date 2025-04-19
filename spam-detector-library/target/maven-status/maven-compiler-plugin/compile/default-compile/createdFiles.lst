@@ -1,0 +1,5 @@
+com\acme\spam\App.class
+com\acme\spam\config\SpamTermRepository.class
+com\acme\spam\detection\SpamDetector.class
+com\acme\spam\normalization\TextNormalizer.class
+com\acme\spam\config\SpamConfig.class

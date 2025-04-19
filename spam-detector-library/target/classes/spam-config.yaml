@@ -1,0 +1,52 @@
+# Umbral por defecto para identificar spam (10%)
+threshold: 0.10
+
+# Lista de términos de spam (case‑insensitive y apuntados tras normalización)
+terms:
+  # Inglés
+  - sex
+  - viagra
+  - cialis
+  - "one million"
+  - "you've won"
+  - nigeria
+
+  # Español
+  - sexo
+  - viagra
+  - cialis
+  - "un millón"
+  - "has ganado"
+  - nigeria
+
+  # Francés
+  - sexe
+  - viagra
+  - cialis
+  - "un million"
+  - "vous avez gagné"
+  - nigéria
+
+  # Portugués
+  - sexo
+  - viagra
+  - cialis
+  - "um milhão"
+  - "você ganhou"
+  - nígeria
+
+  # Alemán
+  - sex
+  - viagra
+  - cialis
+  - "eine million"
+  - "du hast gewonnen"
+  - nigeria
+
+  # Italiano
+  - sesso
+  - viagra
+  - cialis
+  - "un milione"
+  - "hai vinto"
+  - nigeria
